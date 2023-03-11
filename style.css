@@ -1,5 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     background-color: rgb(120, 101, 173);
+    color: white;
+    max-width: 500px;
+    margin: 20px auto;
+    border: 2px solid #0faa1c00;
+}
+
+.first {
+    margin: 10px auto;
+}
+
+.meme {
+
 }

@@ -13,10 +13,16 @@ body {
     border: 2px solid #0faa1c00;
 }
 
+header {
+    cursor: pointer;
+}
+
 .first {
     margin: 10px auto;
+    cursor: pointer;
+    text-align: center;
 }
 
 .meme {
-
+    display: none;
 }
